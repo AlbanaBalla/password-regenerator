@@ -1,0 +1,53 @@
+body {
+    margin: 100px 50px;
+    background: #1f2937;
+    color: white;
+}
+
+button {
+    color: white;
+    background: #10b981;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 30px;
+}
+.container {
+    border-bottom: 2px solid #273345;
+    padding-bottom: 50px
+}
+
+#random {
+    color: #4ceb8a;
+}
+
+
+.input {
+    display: flex;
+    justify-content: space-around;
+}
+
+#pass {
+    margin-top: 50px;
+    background: #263548;
+    border: none;
+    border-radius:6px;
+    width: 200px;
+    margin-right: 20px; 
+    color: #50f08f;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+#passtwo-el {
+    margin-top: 50px;
+    background: #263548;
+    border: none;
+    border-radius:6px;
+    width: 200px; 
+    margin-left: 20px;
+    color: #50f08f;
+    text-align: center;
+    padding: 10Px;
+}
